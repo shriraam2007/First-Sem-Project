@@ -31,7 +31,7 @@ The program was created as part of a first semester assignment to practice core 
    git clone <https://github.com/shriraam2007/First-Sem-Project.git>
 2. Or download ZIP file and extract it
 3.	Navigate to the project folder cd First-Sem-Project
-4.	Run the Jupyter Notebook Untitled131.ipynb
+4.	Run the python GK quiz game.py
 5.	Play the quiz
 
 Follow the instructions shown on screen to answer the questions.
