@@ -2,7 +2,9 @@
 **Online Python Quiz Game**
 
 ##1. Description
+
 This project is a simple quiz game that runs in the command line using Python. It challenges the player’s general knowledge with 10 multiple choice questions. The game is interactive, giving instant feedback after each answer and showing the final score once all questions are completed.
+
 The program was created as part of a first semester assignment to practice core programming concepts such as handling user input, using lists and dictionaries, working with loops and conditionals, and organizing code into functions.
 
 ##2. Features
