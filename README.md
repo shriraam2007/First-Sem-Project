@@ -28,9 +28,14 @@ The program was created as part of a first semester assignment to practice core 
 Follow the instructions shown on screen to answer the questions.
 
 ##4. Future Enhancements
+
 The quiz could be improved with additional features, such as:
+
 --Question Bank: Load questions from external files for flexibility.
+
 --Topic Selection: Allow users to choose categories like Science, History, or Geography.
+
 --Difficulty Levels: Offer varying levels of challenge.
+
 --Graphical Interface: Use a library to create a GUI for better user experience.
 
