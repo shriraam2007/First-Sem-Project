@@ -14,11 +14,12 @@ The program was created as part of a first semester assignment to practice core 
 --Modular design: Functions are used to keep the code clear and easy to maintain.
 
 ##3. How to Run the Project
+
 ###Prerequisites
 --Python 3 must be installed on your computer.
+
 ###Steps
 1.	Clone the repository
-   ```bash
    git clone <https://github.com/shriraam2007/First-Sem-Project/tree/main>
 2. Or download ZIP file and extract it
 3.	Navigate to the project folder
