@@ -36,7 +36,7 @@ The program was created as part of a first semester assignment to practice core 
 
 Follow the instructions shown on screen to answer the questions.
 
-##4. Future Enhancements
+## 4. Future Enhancements
 
 The quiz could be improved with additional features, such as:
 
