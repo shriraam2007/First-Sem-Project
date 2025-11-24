@@ -24,7 +24,7 @@ The program was created as part of a first semester assignment to practice core 
 ## 3. How to Run the Project
 
 ### Prerequisites
---Python 3 must be installed on your computer.
+-Python 3 must be installed on your computer.
 
 ### Steps
 1.	Clone the repository
